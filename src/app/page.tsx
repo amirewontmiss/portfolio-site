@@ -1,5 +1,3 @@
-import Head from "next/head";
-
 export const metadata = {
   title: "Amire Ramazan — Quantum AI Engineer",
   description: "Building hybrid quantum AI frameworks and models that push the boundaries of computation.",
