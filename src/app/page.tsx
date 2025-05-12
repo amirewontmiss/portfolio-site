@@ -73,7 +73,7 @@ export default function Home() {
       <footer className="max-w-2xl pt-8 border-t border-gray-700 flex flex-col sm:flex-row sm:items-center sm:justify-between">
         <div className="flex space-x-6">
           <a
-            href="mailto:amire@xanamire.com"
+            href="mailto:amireramazan0809@gmail.com"
             className="opacity-80 hover:opacity-100 transition"
           >
             email
