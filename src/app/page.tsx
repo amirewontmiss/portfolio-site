@@ -36,7 +36,7 @@ export default function Home() {
               rel="noopener noreferrer"
               className="underline hover:opacity-100 transition"
             >
-              published QuantumGPTMini paper at 16 (matched GPT-2 Small)
+              published QuantumGPTMini paper (matched GPT-2 Small)
             </a>
           </li>
           <li>
