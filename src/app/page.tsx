@@ -11,9 +11,9 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white flex flex-col items-start px-8 py-16 space-y-12">
       {/* Intro */}
       <section className="max-w-2xl">
-        <h1 className="text-5xl font-bold mb-2">hi, I&apos;m Xan. Amire Ramazan</h1>
+        <h2 className="text-5xl font-bold mb-2">hi, I&apos;m Xan. Amire Ramazan</h2>
         <p className="text-lg opacity-60">
-          Quantum AI engineer. Building hybrid quantum-classical models that reason. I like Frank Ocean and AI.
+          Quantum AI engineer. Building hybrid quantum-classical models that reason.
         </p>
       </section>
 
