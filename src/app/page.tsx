@@ -13,7 +13,7 @@ export default function Home() {
       <section className="max-w-2xl">
         <h2 className="text-5xl font-bold mb-2">hi, I&apos;m Xan. Amire Ramazan</h2>
         <p className="text-lg opacity-60">
-          Quantum AI engineer. Building hybrid quantum-classical models that reason.
+          Quantum AI engineer. Working on hybrid quantum-classical models that reason.
         </p>
       </section>
 
@@ -21,7 +21,7 @@ export default function Home() {
       <section className="max-w-2xl">
         <h2 className="text-2xl font-semibold mb-4">currently</h2>
         <p className="opacity-80">
-          building Quantum Artificial Intelligence.
+          building a Quantum Orchestration Layer Platform.
         </p>
       </section>
 
@@ -31,7 +31,27 @@ export default function Home() {
         <ul className="list-disc list-inside space-y-2 opacity-80">
           <li>
             <a
-              href="https://www.authorea.com/users/918341/articles/1290843-quantumgptmini-a-hybrid-quantum-classical-transformer-for-enhanced-nlp"
+              href="https://haulvisor.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-100 transition"
+            >
+              launched HaulVisor - the world's first universal quantum circuit orchestration interface.
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.linkedin.com/posts/ramazan-amire-4a5263347_heres-how-haulvisor-works-as-a-cli-tool-activity-7331015144459628545-_s8N"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-100 transition"
+            >
+              created HaulVisor-Quantum - a CLI tool that connects and manages multi-backend quantum workloads with a single unified interface. Built from scratch, it supports PennyLane, Braket, and Qiskit. It's the first step toward true quantum OS-level orchestration.
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://haulvisor.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:opacity-100 transition"
@@ -46,12 +66,32 @@ export default function Home() {
               rel="noopener noreferrer"
               className="underline hover:opacity-100 transition"
             >
-              created Haul-Quantum: a Python framework specifically designed for QAI/∞
+              created Haul-Quantum: a Python framework specifically designed for QAI
             </a>
           </li>
-          <li>launched VonX sandbox: Quantum AI Playground for learning</li>
-          <li>launched QuantumGPTMini: first-ever live experimental Quantum AI chatbot</li>
-          <li>created my Quantum Machine Learning studying page</li>
+          <li>
+            <a
+              href="https://vonx.vercel.app/sandbox"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-100 transition"
+            >
+              launched VonX sandbox: Quantum AI Playground for learning
+            </a>   
+          </li>
+          <li>
+            <a
+              href="https://vonx.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:opacity-100 transition"
+            >
+          launched QuantumGPTMini: first-ever live experimental Quantum AI chatbot
+            </a>
+          </li>
+          <li>
+          created my Quantum Machine Learning studying page: releasing soon.
+          </li>
         </ul>
       </section>
 
