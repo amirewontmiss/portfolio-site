@@ -53,8 +53,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              href="https://haulvisor.vercel.app/" // Assuming this link is correct, though it's the same as the first item.
-                                                // Consider updating if QuantumGPTMini paper has a different URL.
+              href="https://www.authorea.com/users/918341/articles/1290843-quantumgptmini-a-hybrid-quantum-classical-transformer-for-enhanced-nlp" 
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:opacity-100 transition"
