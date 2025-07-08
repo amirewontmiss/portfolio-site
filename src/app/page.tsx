@@ -43,7 +43,7 @@ export default function Home() {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/posts/ramazan-amire-4a5263347_heres-how-haulvisor-works-as-a-cli-tool-activity-7331015144459628545-_s8N"
+              href="https://www.linkedin.com/posts/xan-amire-4a5263347_heres-how-haulvisor-works-as-a-cli-tool-activity-7331015144459628545-6U1y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFa2hP0BjYEOHL91R3Dj9HdTvy1ROo1QqPc"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:opacity-100 transition"
@@ -130,7 +130,7 @@ export default function Home() {
             github
           </a>
           <a
-            href="https://kz.linkedin.com/in/ramazan-amire-4a5263347"
+            href="https://www.linkedin.com/in/xan-amire-4a5263347/"
             target="_blank"
             rel="noopener noreferrer"
             className="opacity-80 hover:opacity-100 transition"
